@@ -3,7 +3,7 @@
 This repo contains a translation of Marta Harnecker's "Los conceptos elementales del materialismo histórico".
 
 Up to chapter 10 is mostly adapted from the translations of individual chapters that appeared in monthly review,
-although some changes to language have been made here and there.
+although some changes to language have been made here and there. We have changed most of the pull-quotes from translations of the *Spanish* translations of the originals, to the most popular English translations of the originals.
 
 Chapter 11 is a new translation from the [Spanish original](https://www.proletarios.org/books/Harnecker-Conceptos_elementales_del_materialismo_historico.pdf).
 
