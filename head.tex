@@ -1,0 +1,50 @@
+\usepackage[a5paper, left=19mm, right=19mm, top=20mm, bottom=19mm]{geometry}
+\usepackage{xcolor}
+
+\usepackage{tcolorbox}
+% New tcolorbox
+\newtcolorbox{warning}{colback=red!5!white, colframe=red!50!white, title={Translator's warning},fonttitle=\bfseries}
+\newtcolorbox{suggestion}{colback=green!5!white, colframe=green!50!black, title={Suggestion},fonttitle=\bfseries,}
+% Declare the environments
+\newenvironment{quote_warning}{\begin{warning}}{\end{warning}}
+\newenvironment{quote_suggestion}{\begin{suggestion}}{\end{suggestion}}
+
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+
+\titleformat{\chapter}[display]
+  {\sffamily\bfseries}
+  {\begin{flushleft}\sffamily \Huge \textbf{\thechapter}\end{flushleft}}
+  {0pt}{\huge}
+
+\titleformat{\section}[hang]
+  {\sffamily\bfseries}
+  {\sffamily\bfseries\large\thesection\;\;}
+  {0pt}{\large}
+
+\titleformat{\subsection}[hang]
+  {\sffamily\bfseries}
+  {\sffamily\bfseries\normalsize\thesection\;\;}
+  {0pt}{\normalsize}
+
+\pagestyle{fancy}
+
+\fancyhf{}
+\fancyhead[RE]{\leftmark}
+\fancyhead[LO]{\rightmark}
+\fancyhead[LE,RO]{\textsf{\thepage}}
+\renewcommand\headrulewidth{0pt}
+\renewcommand\chaptermark[1]{\markboth{\textsf{\textit{#1}}}{}} 
+% \renewcommand\sectionmark[1]{\markright{\thesection.\ #1}}
+\renewcommand\sectionmark[1]{\markright{\textsf{\textit{#1}}}}
+
+% Force footnotes to not be broken across pages
+%\interfootnotelinepenalty=10000
+
+% Indent the first line of each paragraph
+\setlength{\parindent}{1.5em}
+% Space between paragraphs
+\setlength{\parskip}{0.25em}
+
+
+
