@@ -3,7 +3,8 @@
 
 > *Philosophers have only interpreted the world in different ways, the point, however, is to change it.*
 > 
-> Marx, *11th Thesis on Feuerbach*
+> -- Marx, *11th Thesis on Feuerbach*
+>
 
 What is the significance of this change from the interpretation of the world to its transformation, announced by Marx in the *11th Thesis on Feuerbach*? The necessity of abandoning theory in order to pass over into action; in other words, the necessity of abandoning the library and its books in order to commit oneself exclusively to revolutionary political action?
 
@@ -143,6 +144,7 @@ But to read them, to study them, to assimilate them, does not mean simply reciti
 
 Finally, we want to especially thank our professor and friend, Louis Althusser and all those who, in one way or another, have made possible the realization of this work which is the fruit of a true collective labor and to warn our readers that it will be absolutely sterile if it is limited solely to augmenting the scope of our knowledge of Marxist theory. Let us remember that Marx's ultimate objective was *to transform the world*.
 
-Santiago, Chile\
+Santiago, Chile
+
 January 1971
 
