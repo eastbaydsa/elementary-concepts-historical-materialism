@@ -42,6 +42,10 @@ workers who work in the different branches.
 As the division of labor develops, the interdependence of the different sectors
 grows.[^sv.192]
 
+[^sv.191]: The division of social production grows along with the technical division of labor. See these concepts in chapter 1.
+
+[^sv.192]: See the concept on the socialization of the productive forces in chapter 3.
+
 But how is the connection between the different lines of work achieved in capitalist
 society?
 
@@ -293,7 +297,9 @@ They are the product of the labor of human beings on nature.
 
 But a human being neither lives nor labors alone. They live and labor in society.
 In the labor process, people start to depend on each other, and in that way create certain
-relations of production between themselves.
+relations of production between themselves.[^sv.193]
+
+[^sv.193]: See chapter 2.
 
 Thus, the work of an individual becomes a quantum of social labor and
 the relations of labor must ensure that the social labor is distributed in
@@ -557,7 +563,7 @@ in mind, as with the things needed to maintain and increase
 their level. Here we find the explanation for the higher
 salaries given specialized workers.[^sv.izzy.specialized]
 
-[^sv.izzy.specialized]: Translator's note: I find this explanation dubious.
+[^sv.izzy.specialized]: Translator's note: We find this explanation dubious.
 [^sv.194]: See chapter 1.
 
 The value of labor power is therefore equal to the value of all the products
