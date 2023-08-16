@@ -436,7 +436,7 @@ we just analyzed it in a simple commodity economy.
 If one goes into a shop in a capitalist city and tries to
 negotiate down the price of a product, the first argument given
 by the seller will not be the same as that given by the chair merchant:
-that it cost them move than what you're offering. This time, the seller
+that it cost them more than what you're offering. This time, the seller
 will say that the sale of this object doesn't make them much profit;
 that they cannot sell it at cost because they need to make something
 off the sale.
