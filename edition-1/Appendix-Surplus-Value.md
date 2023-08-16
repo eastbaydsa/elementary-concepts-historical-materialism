@@ -235,14 +235,14 @@ elements:
 
 |Cost in dollars|Goods purchased|Type|Means of production|
 |-------|-------|------|-------|
-|60|fabric|Raw material|✅|
-|5|buttons|Raw material|✅|
-|5|thread|Raw material|✅|
-|1|wear-and-tear on sewing machine|Means of labor|✅|
-|1|electricity|Means of labor|✅|
-|1|heat|Means of labor|✅|
-|1|rent for the room|Means of labor|✅|
-|65|labor of the dressmaker|Labor power|❌|
+|60|fabric|Raw material|Yes|
+|5|buttons|Raw material|Yes|
+|5|thread|Raw material|Yes|
+|1|wear-and-tear on sewing machine|Means of labor|Yes|
+|1|electricity|Means of labor|Yes|
+|1|heat|Means of labor|Yes|
+|1|rent for the room|Means of labor|Yes|
+|65|labor of the dressmaker|Labor power|No|
 |140|**Total**|||
 
 Now, the dressmaker will try to sell the dress for more than it cost
