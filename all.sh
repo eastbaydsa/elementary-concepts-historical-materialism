@@ -18,6 +18,7 @@ edition-1/'8. Mode of Production, Social Formation and Political Conjuncture.md'
 edition-1/'9. Social Classes.md' \
 edition-monthly-review/'10. The Class Struggle.md' \
 edition-1/'11. The Marxist Theory of History.md' \
+edition-1/Appendix-Surplus-Value.md \
  -o book.pdf
 
 # sed -i 's:begin{document}:begin{document}\\includepdf[pages={1}]{/home/izzy/repos/printing/clock/clock.pdf}:' book.tex
