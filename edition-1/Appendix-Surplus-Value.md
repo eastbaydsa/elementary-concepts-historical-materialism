@@ -1,3 +1,7 @@
+\appendix
+
+# Surplus Value
+
 ## Value in the Simple Commodity Economy
 
 In this appendix[^sv.190], we've endeavored to present the concept of surplus value
@@ -8,7 +12,7 @@ therefore see what must be done to eliminate them.
 In creating this appendix, we have intended it principally to be useful to
 working comrades. Hopefully we've achieved this objective.
 
-[sv.190]: In writing this appendix we've used -- in addition to Marx's *Capital* -- the text of Lapidus and
+[^sv.190]: In writing this appendix we've used -- in addition to Marx's *Capital* -- the text of Lapidus and
 Ostrovitianov: *Manual of Political Economy* (Moscow, 1929). We strongly recommend their reading for its
 great simplicity without sacrificing scientific rigor. This text will be published in *Editorial Universitaria*,
 from Santiago, Chile, under the title of *Conceptos fundamentales de El Capital de Carlos Marx*, with a
@@ -233,16 +237,19 @@ their labor for the products of others' labor.
 In this way, the price of the dress must take into account the following
 elements:
 
-|Cost in dollars|Goods purchased|Type|Means of production|
+|Cost (dollars)|Goods purchased|Type|Means of\
+production|
 |-------|-------|------|-------|
 |60|fabric|Raw material|Yes|
 |5|buttons|Raw material|Yes|
 |5|thread|Raw material|Yes|
-|1|wear-and-tear on sewing machine|Means of labor|Yes|
+|1|wear-and-tear on \
+sewing machine|Means of labor|Yes|
 |1|electricity|Means of labor|Yes|
 |1|heat|Means of labor|Yes|
 |1|rent for the room|Means of labor|Yes|
-|65|labor of the dressmaker|Labor power|No|
+|65|labor of the\
+dressmaker|Labor power|No|
 |140|**Total**|||
 
 Now, the dressmaker will try to sell the dress for more than it cost
