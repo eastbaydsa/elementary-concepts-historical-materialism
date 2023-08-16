@@ -353,7 +353,7 @@ not calculated based on the largest amount of labor, or on the smallest, but on
 the average amount labor. The work done using an average level of technology and
 an average efficiency of labor power.[^sv.izzy]
 
-[sv.izzy]: This is a simplification which assumes that all value is realized (i.e.,
+[^sv.izzy]: Translator's note: this is a simplification which assumes that all value is realized (i.e.,
 that no one is forced to take losses) or in other words that the producers on the whole will 
 sell all their product and be accurately compensated for their total labor.
 Even when supply and demand meet,
