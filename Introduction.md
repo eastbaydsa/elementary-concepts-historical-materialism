@@ -12,7 +12,7 @@ Many young Latin Americans, tired of the revolutionary rhetoric which has never 
 
 If this were so, then to be consistent Marx would have had to abandon his books and his study to dedicate himself exclusively to political work. Nevertheless, to the very end of his life, intellectual work occupied a great part of his time, although he did not abandon immediate political work.
 
-Marx's life therefore poses a dilemma: either Marx was not consistent with his affirmation of the necessity of passing from the interpretation to the transformation of the world, or he considered that there could not be a transformation of it without preliminary knowledge of the reality which he wanted to transform, without a preliminary knowledge of how it is organized, what its laws of operation and development are, what social forces exist to actualize changes; in short, without a scientific knowledge of it.
+Marx's life therefore poses a dilemma: either Marx was not consistent with his statement of the necessity of passing from the interpretation to the transformation of the world, or he considered that there could not be a transformation of it without preliminary knowledge of the reality which he wanted to transform, without a preliminary knowledge of how it is organized, what its laws of operation and development are, what social forces exist to actualize changes; in short, without a scientific knowledge of it.
 
 There can be no doubt that the latter was Marx's position.
 
